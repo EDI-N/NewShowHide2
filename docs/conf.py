@@ -33,7 +33,6 @@ import os
 extensions = [
     'sphinx.ext.autodoc',
     'sphinxcontrib.contentui',
-    'notfound.extension',
 ]
 
 # for 404 page
